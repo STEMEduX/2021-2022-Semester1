@@ -11,9 +11,9 @@ def main():
     sides = 6
     rolling = True
     while rolling:
-    	roll_again = input("Ready to roll? ENTER=Roll. Q=Quite. ")
+        roll_again = input("Ready to roll? ENTER=Roll. Q=Quite. ")
         if roll_again.lower() != "q":
-    	    num_rolled = roll(sides)
+            num_rolled = roll(sides)
             print("You rolled a ", num_rolled)
         else:
             rolling = False
