@@ -1,6 +1,13 @@
 # 2021-2022-Semester1
 ## Satuday Class
 
+Join Zoom Meeting
+https://us06web.zoom.us/j/89987597054?pwd=S1k5M0pJUHB0NjF2NldLS2xiNWVUZz09
+
+Meeting ID: 899 8759 7054
+Passcode: 2ycEwZ
+
+
 ----
 
 ## 09-18-2021 Class two
