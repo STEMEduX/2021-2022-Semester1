@@ -6,8 +6,15 @@
 ## 09-18-2021 Class two
 * Code from last week
 
+Homework:
+1. Please use what you learned in the class to write a python program to calculate 
+1 + 4 + 9 + 16 + .... + 98 * 98 + 99 * 99 + 100 * 100.
+2. Attached please find 2_simple_dice.py python program we used in the class for rolling dice. Try to run it. Question: how many times should you roll the dice so you can get better probability of a certain number closer to the 1/6 i.e. 0.167 probability?
+
+
 ## 09-11-2021 Class one
-今天的作业是：
+Homework:
+
 1. Type the attached program exactly as it is written (including not omitting any space) in https://replit.com python program space as we did the class;
 2. Run the program and answer following questions:
 a. One student (Clara?) in the class said when rolling dice, the probability of each number on the die to show is equal. For a die with 6 sides, the probability should be 1/6. However, in the class, we rolled 6 times, 5 and 4 showed up twice, 3 didn't show up and another two numbers showed only once. It seems the probability is not 1/6 i.e. 0.166667. What is wrong?
