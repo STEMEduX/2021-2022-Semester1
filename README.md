@@ -9,6 +9,16 @@ Passcode: 2ycEwZ
 
 
 ----
+## 09-25-2021 Class three
+
+Homework:
+1. Assume N is a positive integer bigger than 4. Please use what you learned in the class to write a python program to calculate 
+1 + 4 + 9 + 16 + .... + N * N. Please execute the program and make sure it works as desire: i.e. the program should take a positive integer from the commandline user input, and perform the calculation. Please also consider following problems:
+* What happens if you enter in the command line a negative number accidentally? Can you prevent that from happening? 
+* What happens if you enter a nonnumeric letter? Can you prevent that from happening?
+ 
+
+2. Attached please find several simple_dice.py python programs we used in the class for rolling dice. Try to run it. One of the problems with these programs if it works only for Die 6, and would not work with a die with faces like 4 or 20. How can we make the programs to work with dice having 4 faces or 20 faces? Please try to find your answers, and we will answer it in next class.
 
 ## 09-18-2021 Class two
 * Code from last week
