@@ -9,6 +9,13 @@ Passcode: 2ycEwZ
 
 
 ----
+## 10-02-2021 Class four
+Homework: 
+1. Execute the attached simple_dice_array.py program using different inputs as the program is asking. Read through the program and review what we learned in the class. You are welcome to bring any question you may have to your teachers in class or in email off class.
+2. Please use array to write a python program to calculate 
+1 + 4 + 9 + 16 + .... + 98 * 98 + 99 * 99 + 100 * 100. Basically you need to creat an array and put the numbers in the array then do the calculation.
+
+----
 ## 09-25-2021 Class three
 
 Homework:
