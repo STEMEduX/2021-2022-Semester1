@@ -7,6 +7,13 @@ https://us06web.zoom.us/j/89987597054?pwd=S1k5M0pJUHB0NjF2NldLS2xiNWVUZz09
 Meeting ID: 899 8759 7054
 Passcode: 2ycEwZ
 
+
+----
+## 10-16-2021 Class six
+Homework: 
+1. Write a Python program to returns sum of all divisors of a number.
+2. It seems the house the Bunny is adventuring in does not have a bathroom and also does not have a bedroom. Can you add to the house one or two bathroom(s) and if you like, add a bedroom so Johnny can hide his basket there?
+
 ----
 ## 10-09-2021 Class five
 Homework: 
