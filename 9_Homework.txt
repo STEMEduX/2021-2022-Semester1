@@ -1,0 +1,4 @@
+1. Right now the word program only uses one template. Please create 5 templates so that when the program executes it can choose and use randomly 1 of the 5 templates. Please thoroughly test the program you write.
+2. For the Hangman program, please modify all hangman words to 5 letters. And make the guesses over 8 times to fail for the game then print the hangman picture. For the winners i.e. people who are guessing correctly with 8 or less attempts, you may want to issue them monetary awards.
+
+
