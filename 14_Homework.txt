@@ -1,0 +1,8 @@
+Homework for programming
+Using python program to write a recursive function to 
+1. calculate the factorial of 100;
+2. calculate the fibonacci numbers for 100 terms;
+
+You can modify the programs we discussed in the prior class, please just not to copy them as they are as you see them in the GITHUB repository. Problems 1 and 2 are from the homework from last class since none of the students did not complete the homework.
+
+3. Review 14_TTT.pdf and prepare 5 questions you have for the document. Note: we have been talking about tic tac toe python game program, starting to explore how to evaluate the state of game board after each move using computer software, formating the how-to-win as a science problem with a computer software solution. This document will be the guide for our continuing exploration into the gaming software, gaming algorithm using python progamming in next few classes.
