@@ -1,0 +1,2 @@
+1. It seems the 16_8queens.py program does not have an explicit main() function defined. Can you modify 16_8queens.py by defining the explicit main() function, test the modified python program, make sure it still works as expected.
+2. Please explain how the 8 queeens backtracking algorithm works using the excel sheet, in combination with the python program we discussed in the class.
