@@ -1,0 +1,2 @@
+Please review 18_BruteForce2.py program and 18_8queens_bruteforce.pptx document, run the program, be able to understand how this python program work to find the solutions for the Eight Queens problem. Be able to explain it to the whole class when we meet next time.
+
