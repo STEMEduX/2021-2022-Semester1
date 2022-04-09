@@ -1,0 +1,2 @@
+Run the 20_findBestMove.py program, review 20_FindOptiomalMove.pdf document and also following link:
+https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/, be ready to explain how to find the optimal move in a TTT game in next class.
