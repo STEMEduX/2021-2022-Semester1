@@ -1,0 +1,3 @@
+Please run the Pong.py python program in replit.com, play the game with parents, sisters/brothers, or class mates, friends. Note: LEFT paddle is controlled by WSAD keys and RIGHT paddle is controlled by arrow keys.
+
+In next class we will go through the coding for the program.
