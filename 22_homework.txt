@@ -1,0 +1,4 @@
+1. Please run the 22_Pong.py python program in replit.com, play the game with parents, sisters/brothers, or class mates, friends. Note: LEFT paddle is controlled by WSAD keys and RIGHT paddle is controlled by arrow keys;
+2. Try to modify the proram 22_Pong.py as you want to such as change the speeds of ball, paddle, color etc and see how the game would change.
+
+In next class we will continue to look into the coding in the program with the goals you can start programming a board game yourself.
